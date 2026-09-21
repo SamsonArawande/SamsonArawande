@@ -5,7 +5,7 @@
 I turn raw data into insights that support better decisions — collecting, analyzing, visualizing, and delivering findings that businesses can actually act on.
 
 ## What I work with
-`Excel` · `SQL` · `Power BI` · `Python` · `DAX`
+`Excel` · `SQL` · `Power BI` · `DAX`
 
 ## Featured projects
 - 🔍 [**Telco Customer Churn Analysis**](https://github.com/SamsonArawande/telco-customer-churn-analysis) — Customer churn analysis and retention insights for a telecom company
