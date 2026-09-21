@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Samson Arawande 👋
 
-<!--
-**SamsonArawande/SamsonArawande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Business Intelligence**
 
-Here are some ideas to get you started:
+I turn raw data into insights that support better decisions — collecting, analyzing, visualizing, and delivering findings that businesses can actually act on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+`Excel` · `SQL` · `Power BI` · `Python` · `DAX`
+
+## Featured projects
+- 🔍 [**Telco Customer Churn Analysis**](https://github.com/SamsonArawande/telco-customer-churn-analysis) — Customer churn analysis and retention insights for a telecom company
+- 📊 [**Global Superstore Sales Performance & BI Dashboard**](https://github.com/SamsonArawande/Global-Superstore-Sales-Performance-Analysis-Business-Intelligence-) — Interactive BI analyzing sales, profitability, customer segments, and market performance
+- 🏥 [**HealthConnect: Clinic Experience Lab**](https://github.com/SamsonArawande/HealthConnect-Clinic-Experience-Lab-) — Improving patient appointment attendance and healthcare support using data and AI
+
+## Let's connect
+- 📧 samsonarawande@outlook.com
+- 💼 LinkedIn: www.linkedin.com/in/samson-arawande
+
+_Currently building my foundation in analytics tools while learning to use AI as a productivity multiplier — not a substitute for analytical thinking._
