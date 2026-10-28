@@ -1,6 +1,6 @@
 # Hi, I'm Samson Arawande 👋
 
-**Data Analyst | Business Intelligence**
+**Junior Data Analyst | Business Intelligence Analyst**
 
 I turn raw data into insights that support better decisions — collecting, analyzing, visualizing, and delivering findings that businesses can actually act on.
 
